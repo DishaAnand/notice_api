@@ -3,7 +3,7 @@
     {
       "id": 3,
       "title": "Ex1",
-      "Description": "Expertise in the following field",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500sd",
       "Author_name": "madhu",
       "date_and_time": "23:00,04-10-2023",
       "createdAt": "2023-10-09T21:51:36.000Z",
@@ -11,8 +11,8 @@
     },
      {
       "id": 5,
-      "title": "Ex1",
-      "Description": "Expertise in the following field",
+      "title": "Ex2",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "Author_name": "disha",
       "date_and_time": "23:00,04-10-2023",
       "createdAt": "2023-10-09T21:51:36.000Z",
@@ -20,8 +20,8 @@
     },
     {
     "id": 2,
-    "title": "Ex1",
-    "Description": "Expertise in the following field",
+    "title": "Ex3",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "Author_name": "anand",
     "date_and_time": "23:00,04-10-2023",
     "createdAt": "2023-10-09T21:51:36.000Z",
@@ -29,8 +29,8 @@
   },
     {
     "id": 10,
-    "title": "Ex2",
-    "Description": "Expertise in the following field",
+    "title": "Ex4",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "Author_name": "madhushree",
     "date_and_time": "23:00,04-10-2023",
     "createdAt": "2023-10-09T21:51:36.000Z",
@@ -38,8 +38,8 @@
   },
     {
     "id": 8,
-    "title": "Ex2",
-    "Description": "Expertise in the following field",
+    "title": "Ex5",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "Author_name": "shree",
     "date_and_time": "23:00,04-10-2023",
     "createdAt": "2023-10-09T21:51:36.000Z",
@@ -47,8 +47,8 @@
   },
     {
     "id": 9,
-    "title": "Ex3",
-    "Description": "Expertise in the following field",
+    "title": "Ex6",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "Author_name": "john",
     "date_and_time": "23:00,04-10-2023",
     "createdAt": "2023-10-09T21:51:36.000Z",
