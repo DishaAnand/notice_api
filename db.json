@@ -1,57 +1,57 @@
 {
   "notices": [
     {
-      "id": 3,
-      "title": "Ex1",
-      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500sd", when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old,
-      "Author_name": "madhu",
+      "id": 1,
+      "title": "Disruption in water Supply",
+      "Description": "From noon today until 6:00 AM on October 27, there will be stop-and-go traffic for a water valve replacement near 66 Meadowbrook Drive, Bedford.Impacted water service customers have been notified in advance. Motorists should expect delays and use alternate routes. Motorists are also reminded that speed fines double in work zones.  ",
+      "Author_name": "Josephine",
       "date_and_time": "23:00,04-10-2023",
       "createdAt": "2023-10-09T21:51:36.000Z",
       "updatedAt": "2023-10-09T21:51:36.000Z"
     },
      {
-      "id": 5,
-      "title": "Ex2",
-      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "Author_name": "disha",
+      "id": 2,
+      "title": "Celebration of 25 years",
+      "Description": "Celebrating a quarter-century since the opening of our beloved apartment! 25 years of memories, laughter, and shared experiences. From the inaugural moments to the countless stories that have unfolded within these walls, here's to a home that has been the heart of our lives for a remarkable two and a half decades. Here's to the cherished memories and the many more yet to be made",
+      "Author_name": "Mark Sunday",
       "date_and_time": "23:00,04-10-2023",
-      "createdAt": "2023-10-09T21:51:36.000Z",
+      "createdAt": "2023-10-12T21:51:36.000Z",
       "updatedAt": "2023-10-09T21:51:36.000Z"
     },
     {
-    "id": 2,
-    "title": "Ex3",
-    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-    "Author_name": "anand",
+    "id": 3,
+    "title": "Pests control ",
+    "Description": "Pest control is essential for maintaining a healthy and hygienic environment. Through various methods like traps, baits, and eco-friendly solutions, it aims to manage and eradicate pests, preventing damage and health risks. Regular pest control measures help safeguard homes and businesses, ensuring a safe and comfortable space for inhabitants while preserving the integrity of the property.",
+    "Author_name": "marjus ruthe",
     "date_and_time": "23:00,04-10-2023",
-    "createdAt": "2023-10-09T21:51:36.000Z",
+    "createdAt": "2023-10-13T21:51:36.000Z",
     "updatedAt": "2023-10-09T21:51:36.000Z"
   },
     {
-    "id": 10,
-    "title": "Ex4",
-    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-    "Author_name": "madhushree",
+    "id": 4,
+    "title": "Electricity outage",
+    "Description": "We regret to inform you of an upcoming electricity outage scheduled for maintenance purposes. This interruption will occur on [date] from [start time] to [end time]. We apologize for any inconvenience caused and appreciate your understanding as we strive to enhance the reliability of our electrical services",
+    "Author_name": "tuscany mari",
     "date_and_time": "23:00,04-10-2023",
-    "createdAt": "2023-10-09T21:51:36.000Z",
+    "createdAt": "2023-10-13T21:51:36.000Z",
     "updatedAt": "2023-10-09T21:51:36.000Z"
   },
     {
-    "id": 8,
-    "title": "Ex5",
-    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-    "Author_name": "shree",
+    "id": 5,
+    "title": "resell of old items",
+    "Description": "Looking to declutter? Join our community resell event! Sell your preloved items and give them a new life. It's a perfect opportunity to make space while earning and reducing waste. Mark your calendars and be part of our sustainable resale initiative",
+    "Author_name": "Andree jonas",
     "date_and_time": "23:00,04-10-2023",
-    "createdAt": "2023-10-09T21:51:36.000Z",
+    "createdAt": "2023-10-18T21:51:36.000Z",
     "updatedAt": "2023-10-09T21:51:36.000Z"
   },
     {
-    "id": 9,
-    "title": "Ex6",
-    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-    "Author_name": "john",
+    "id": 6,
+    "title": "Closure of office",
+    "Description": "Please be advised that our office will be closed this week . We apologize for any inconvenience caused and assure you that normal business operations will resume on the following business day. For urgent matters, please reach out to the management number.",
+    "Author_name": "john terry",
     "date_and_time": "23:00,04-10-2023",
-    "createdAt": "2023-10-09T21:51:36.000Z",
+    "createdAt": "2023-10-21T21:51:36.000Z",
     "updatedAt": "2023-10-09T21:51:36.000Z"
   }
   ]
